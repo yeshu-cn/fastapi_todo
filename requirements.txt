@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pyjwt
+passlib[bcrypt]
+sqlite3
